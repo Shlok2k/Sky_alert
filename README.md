@@ -1,7 +1,3 @@
-Great! Here's a **very detailed `README.md`** for your **Sky Alert** project — now with **placeholder sections for screenshots** and more detailed explanations for each feature and section. You can later add real screenshot images into the `/screenshots` folder of your repo and update the image URLs in this markdown.
-
----
-
 # 🌤️ Sky Alert
 
 **Sky Alert** is a modern, responsive weather web application that allows users to get real-time weather information for any city in the world. Whether you're planning your day, checking conditions for a trip, or just curious about the weather elsewhere, Sky Alert helps you stay informed with clear and accurate data using a weather API.
@@ -10,15 +6,13 @@ Great! Here's a **very detailed `README.md`** for your **Sky Alert** project —
 
 ## 🖼️ Project Screenshots
 
-> 📌 Place your screenshot images in a folder named `screenshots` in your repo and update the image paths below.
 
-### 🔍 Homepage – Search for a City
 
-![Search Screenshot](./screenshots/search-city.png)
+| ![Screenshot 1](images/Screenshot%202025-06-03%20132818.png) | ![Screenshot 2](images/Screenshot%202025-06-03%20132846.png) |
+|--------------------------------------------------------------|--------------------------------------------------------------|
 
-### 📋 Weather Details – Displayed After Search
-
-![Weather Details Screenshot](./screenshots/weather-details.png)
+| ![Screenshot 3](images/Screenshot%202025-06-03%20132906.png) | ![Screenshot 4](images/Screenshot%202025-06-03%20132928.png) |
+|--------------------------------------------------------------|--------------------------------------------------------------|
 
 ---
 
@@ -68,13 +62,13 @@ All updates happen instantly on the page without reloading, providing a seamless
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/sky-alert.git
+git clone https://github.com/Shlok2k/Sky_alert.git
 ```
 
 ### 2️⃣ Move into the Project Folder
 
 ```bash
-cd sky-alert
+cd Sky_alert
 ```
 
 ### 3️⃣ Install Required Packages
@@ -159,20 +153,10 @@ From this project, I learned how to:
 
 ## 🙋‍♂️ About Me
 
-* **Developer:** *Your Name*
-* **GitHub:** [@your-username](https://github.com/your-username)
-* **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-* **Portfolio (optional):** [your-portfolio-link.com](https://your-portfolio-link.com)
+* **Developer:** *Shloke Sonker*
+* **GitHub:** [@Shlok2k](https://github.com/Shlok2k)
 
 ---
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
-Feel free to use, share, or improve it with proper attribution.
-
----
-
 ## 💡 Future Enhancements (Optional Ideas)
 
 * 🗓️ 5-day forecast using a different API endpoint
@@ -183,4 +167,4 @@ Feel free to use, share, or improve it with proper attribution.
 
 ---
 
-Would you like me to add dummy screenshot images or generate them as placeholders? I can also tailor this for deployment instructions if you're planning to host it on GitHub Pages, Vercel, or Netlify.
+
